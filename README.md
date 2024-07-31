@@ -1,4 +1,4 @@
-# CompThinking
-Computational Thinking Course at Nova SBE
+# Computational Thinking & Data Science
+Computational Thinking & Data Science Course at Nova SBE
 
 Project
